@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T05:56:31.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="BAb5J_iA51PXbPCNCNMt" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T05:58:32.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_UHQE9SuFbOk4bwNTFLE" version="20.5.3" type="github">
   <diagram id="kWM6Devj3ZmCq5ZHhV0W" name="第 1 页">
-    <mxGraphModel dx="1778" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2585" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -196,7 +196,7 @@
         <mxCell id="HBnFO21-F81Gqix5t91M-95" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HBnFO21-F81Gqix5t91M-94">
           <mxGeometry width="270" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="HBnFO21-F81Gqix5t91M-96" value="用户管理模块服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HBnFO21-F81Gqix5t91M-94">
+        <mxCell id="HBnFO21-F81Gqix5t91M-96" value="博客模块服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HBnFO21-F81Gqix5t91M-94">
           <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HBnFO21-F81Gqix5t91M-97" value="其他模块服务器1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HBnFO21-F81Gqix5t91M-94">
@@ -217,7 +217,7 @@
         <mxCell id="HBnFO21-F81Gqix5t91M-102" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HBnFO21-F81Gqix5t91M-101">
           <mxGeometry width="270" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="HBnFO21-F81Gqix5t91M-103" value="用户管理模块服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HBnFO21-F81Gqix5t91M-101">
+        <mxCell id="HBnFO21-F81Gqix5t91M-103" value="日志模块服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HBnFO21-F81Gqix5t91M-101">
           <mxGeometry x="10" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HBnFO21-F81Gqix5t91M-104" value="其他模块服务器1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="HBnFO21-F81Gqix5t91M-101">
