@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-22T05:58:32.458Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="_UHQE9SuFbOk4bwNTFLE" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-22T05:58:51.521Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="xAYTUH24vvq_OGF5tQPA" version="20.5.3" type="github">
   <diagram id="kWM6Devj3ZmCq5ZHhV0W" name="第 1 页">
-    <mxGraphModel dx="2585" dy="1385" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1270" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -324,9 +324,6 @@
         </mxCell>
         <mxCell id="HBnFO21-F81Gqix5t91M-141" value="Nacos2" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=default;" vertex="1" parent="HBnFO21-F81Gqix5t91M-143">
           <mxGeometry x="140" y="50" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="HBnFO21-F81Gqix5t91M-218" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HBnFO21-F81Gqix5t91M-143" source="HBnFO21-F81Gqix5t91M-142" target="HBnFO21-F81Gqix5t91M-141">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HBnFO21-F81Gqix5t91M-142" value="服务注册配置中心" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=1;" vertex="1" parent="HBnFO21-F81Gqix5t91M-143">
           <mxGeometry x="85" y="10" width="100" height="30" as="geometry" />
